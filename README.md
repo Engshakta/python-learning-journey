@@ -20,8 +20,10 @@ PCEP Certification (Python fundamentals)
 
 ## Progress
 Day 1: Hello World  
-Day 2: Variables and data types  
-Day 3: Conditions and logic  
+Day 2:
+- Learned print() formatting
+- Used sep and end parameters
+- Controlled output structure
 
 ## Tech Stack
 - Python 3
