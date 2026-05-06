@@ -18,12 +18,6 @@ Achieve PCEP → PCAP → PCPP1 certifications and build production-ready backen
 ## Current Focus
 PCEP Certification (Python fundamentals)
 
-## Progress
-Day 1: Hello World  
-Day 2:
-- Learned print() formatting
-- Used sep and end parameters
-- Controlled output structure
 
 ## Tech Stack
 - Python 3
