@@ -18,7 +18,23 @@ Achieve PCEP → PCAP → PCPP1 certifications and build production-ready backen
 ## Current Focus
 PCEP Certification (Python fundamentals)
 
+### Week 1
 
+Day 1
+- Learned print()
+- Learned input()
+- Explored NameError and SyntaxError
+
+Day 2
+- Learned print formatting
+- Used sep and end parameters
+- Controlled output formatting
+
+Day 3
+- Built overtime pay calculator
+- Applied conditional logic using if, elif, and else
+- Performed arithmetic operations with float values
+- Practiced problem solving and debugging
 ## Tech Stack
 - Python 3
 - Linux CLI
