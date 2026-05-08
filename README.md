@@ -3,43 +3,32 @@
 This repository documents my transition from a full-stack JavaScript engineer to a Python backend engineer as part of the SLNDC training program.
 
 ## Objective
-Achieve PCEP → PCAP → PCPP1 certifications and build production-ready backend systems.
 
-## Learning Strategy
-- Daily coding practice (14 hours/day)
-- Weekly GitHub commits
-- Project-based learning
-- Exam-focused preparation
+Achieve the following OpenEDG Python Institute certifications:
 
-## Structure
-- week1, week2... → daily exercises
-- projects → real-world applications
+- PCEP – Certified Entry-Level Python Programmer
+- PCAP – Certified Associate in Python Programming
+- PCPP1 – Certified Professional Python Programmer Level 1
+- PCPP2 – Certified Professional Python Programmer Level 2
 
-## Current Focus
-PCEP Certification (Python fundamentals)
 
-### Week 1
-
-Day 1
-- Learned print()
-- Learned input()
-- Explored NameError and SyntaxError
-
-Day 2
-- Learned print formatting
-- Used sep and end parameters
-- Controlled output formatting
-
-Day 3
-- Built overtime pay calculator
-- Applied conditional logic using if, elif, and else
-- Performed arithmetic operations with float values
-- Practiced problem solving and debugging
-## Tech Stack
-- Python 3
-- Linux CLI
-- Git & GitHub
+The long-term goal is to build production-ready backend systems and strengthen Linux-based infrastructure engineering skills.
 
 ---
 
-This repo will be updated daily.
+## Learning Strategy
+
+- Daily coding practice (14+ hours/day)
+- Weekly GitHub commits and progress tracking
+- Project-based learning
+- Exam-focused preparation
+- Linux command-line development workflow
+- Continuous debugging and problem-solving practice
+
+---
+
+## Repository Structure
+
+```text
+week1, week2...   → Daily exercises and labs
+projects/         → Real-world backend applications
