@@ -1,14 +1,15 @@
-def greet(lang):
-    if lang == "English":
-        return "Hello"  # Returns value to the caller
-    elif lang == "Somali":
-        return "Iska waran"
-    elif lang == "French":
-        return "Bonjour"
-    else:
-        return "Salam"
+hours = float(input("Enter hours worked: "))
+rate= float(input("Enter rate per hour worked: "))
 
-# Now we call the function AND print what it returns
-print(greet("English")) 
-print(greet("Somali"))  
-print(greet("Ahmaric"))
+def computepay(hours, rate):
+    if hours > 40 :
+     over_time = hours - 40
+     gross_salary = (40 * rate) + (over_time * rate *1.5)
+     
+    else:
+     gross_salary = hours * rate
+
+    return gross_salary
+   
+    
+print("Pay" , computepay(hours, rate))
