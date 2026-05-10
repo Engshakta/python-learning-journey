@@ -32,3 +32,6 @@ The long-term goal is to build production-ready backend systems and strengthen L
 ```text
 week1, week2...   → Daily exercises and labs
 projects/         → Real-world backend applications
+
+## Milestones Achieved
+[May 2026] Completed Course 1: Programming for Everybody (Getting Started with Python) - University of Michigan
