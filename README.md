@@ -1,8 +1,4 @@
-This is already a very strong README. It uses the right corporate vocabulary ("capacity-building," "Zero-Waste," "Phase").
 
-To make it completely bulletproof for Helen and any other senior engineers or recruiters who look at your profile, we can tighten the formatting and upgrade the verbs to make it sound even more authoritative and action-oriented.
-
-Here is the upgraded, executive-level version of your README. Simply copy and paste this into your repository.
 
 ---
 
