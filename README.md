@@ -29,12 +29,12 @@ Enterprise Standards: Continuous problem-solving practice strictly adhering to P
 Public Accountability: Weekly, transparent GitHub commits tracking real-time progress.
 
 📂 Repository Structure
-Plaintext
 ├── week1/          # Core syntax, variable allocation, and basic I/O drills
 ├── week2/          # Control flow, logic execution, and iterative operations
 ├── week3/          # Data structures (lists, arrays), bitwise logic labs
 ├── projects/       # Practical SLNDC infrastructure tools (e.g., Server Log Analyzers)
 └── certificates/   # Verified OpenEDG and Coursera credentials
+
 Why this upgrade works perfectly for your PMO meeting:
 The "Overview" Section: Using phrases like "transparent, auditable ledger" speaks directly to Helen’s PMO mindset. It shows that your repository isn't just a coding diary; it is a professional tracking tool for the mission's budget and your capacity building.
 
