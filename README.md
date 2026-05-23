@@ -28,5 +28,12 @@ To ensure absolute resource efficiency and discipline, this roadmap is executed 
 ├── week1/          # Core syntax, variable allocation, and basic I/O drills
 ├── week2/          # Control flow, logic execution, and iterative operations
 ├── week3/          # Data structures (lists, arrays), bitwise logic labs
+<<<<<<< HEAD
 ├── projects/       # Practical SLNDC infrastructure tools (e.g., Server Log Analyzers)
 └── certificates/   # Verified OpenEDG and Coursera credentials
+=======
+├── projects/       # Practical  infrastructure tools (e.g., Server Log Analyzers)
+└── certificates/   # Verified OpenEDG and Coursera credentials
+
+
+>>>>>>> 3ae8fd96f68eadb6e352c5df3454b32341459644
