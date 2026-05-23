@@ -30,3 +30,9 @@ To ensure absolute resource efficiency and discipline, this roadmap is executed 
 ├── week3/          # Data structures (lists, arrays), bitwise logic labs
 ├── projects/       # Practical  infrastructure tools (e.g., Server Log Analyzers)
 └── certificates/   # Verified OpenEDG and Coursera credentials
+
+
+### 🌐 Connect with Me
+- **Portfolio:** [abdishakur.kaaliyeinnovations.com](https://abdishakur.kaaliyeinnovations.com/)
+- **LinkedIn:** [linkedin.com/in/engshakir](https://www.linkedin.com/in/engshakir)
+
