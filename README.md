@@ -32,7 +32,3 @@ To ensure absolute resource efficiency and discipline, this roadmap is executed 
 └── certificates/   # Verified OpenEDG and Coursera credentials
 
 
-### 🌐 Connect with Me
-- **Portfolio:** [abdishakur.kaaliyeinnovations.com](https://abdishakur.kaaliyeinnovations.com/)
-- **LinkedIn:** [linkedin.com/in/engshakir](https://www.linkedin.com/in/engshakir)
-
