@@ -1,41 +1,46 @@
+# # 
 # import math
+# def message(number):
+#     print("Enter a number:", number)
 
-# def greet(name):
-#     print("Hello", name)
+# number = 1234
 
+# message(1)
 
-# greet("shakir")
-# greet("tasnim")
+# print(number)
 
-# def add(a,b):
-#     return a + b
+# print(math.round(45.342))
+# round(45.345, 2)start color black, start verbatim, round(45.345, 2), end verbatim, end color black
 
-# print(add(4,2))
+# round(45.345, 2, 5)
+# round(45.345, 2, 5)start color black, start verbatim, round(45.345, 2, 5), end verbatim, end color black
 
-# print(math.sqrt(16))
+# round(45.8)
+# # round(45.8)start color black, start verbatim, round(45.8), end verbatim, end color black
 
-# def message ():
-#     print("Please Enter a value:")
-
-# message()
-# a = int(input())
-
-# message()
-# b = int(input())
-
-# message()
-# c = int(input())
-
-def connect_database():
-    for i in range(10):
-        print("Database connected")
-
-connect_database()
+# round(45)
 
 
-def message():
-    print("Enter a value:")
+# # round()
+# # round()start color black, start verbatim, round(), end verbatim, end color black
 
-print("We start here.")
-message()
-print("We end here.")
+
+# def bigger(x):
+#     return x ** x
+
+# print(bigger(12))
+
+def hello():
+    print("Hi")
+
+x = hello()
+
+print(x)
+
+def strange_function(n):
+    if n % 2 == 0:
+        return True
+    else:
+        return False
+
+print(strange_function(3))
