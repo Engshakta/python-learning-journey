@@ -85,3 +85,13 @@ def fib(n):
     return fib(n - 1) + fib(n - 2)
   
 print(fib(10))
+
+
+def factorial(n):
+    if n == 1:    # The base case (termination condition.)
+        return 1
+    else:
+        return n * factorial(n - 1)
+
+
+print(factorial(4)) 
