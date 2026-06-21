@@ -1,39 +1,43 @@
-# 🚀 Enterprise Backend Engineering & Python Certification Architecture
+# SLNDC Seed Instructor — Python Certification Journey
 
-### Overview
-This repository serves as a transparent, auditable ledger documenting my transition from a Full-Stack JavaScript Engineer to an Enterprise Python Backend Engineer. The work here reflects an intensive, structured capacity-building program designed to master secure system architecture and advanced network programming.
+## Overview
 
-### 🎯 Certification Roadmap
-The objective is to progress through the OpenEDG Python Institute pipeline, culminating in the terminal Professional Level 2 certification.
+This repository is a transparent, public record of my progress through the **OpenEDG Python Institute certification pathway**, undertaken as part of the **SLNDC Seed Instructor program**, under the MICT and the **TTM**.
 
-* **Phase 1:** PCEP – Certified Entry-Level Python Programmer
-* **Phase 2:** PCAP – Certified Associate in Python Programming
-* **Phase 3:** PCPP1 – Certified Professional Python Programmer 1
-* **Phase 4 (Stretch Goal):** PCPP2 – Certified Professional Python Programmer 2
+The goal is to build strong, verifiable Python backend engineering skills, achieve international certification, and deliver Python training to government IT staff and the public through the **SIZ**.
 
-**Long-Term Objective:** Architect production-ready, highly scalable backend systems, develop robust APIs, and deploy infrastructure tooling within a strictly Linux-based enterprise environment.
+## Certification Roadmap
 
-### ⚙️ Execution Strategy (The "Zero-Waste" Policy)
-To ensure absolute resource efficiency and discipline, this roadmap is executed under a strict risk-control policy. No new phase begins, and no exam voucher is requested, until rigorous mock-exam benchmarks (85%+) are met.
+| Phase | Certification | Status |
+|---|---|---|
+| 1 | **PCEP** – Certified Entry-Level Python Programmer | ✅ Passed — June 20, 2026 |
+| 2 | **PCAP** – Certified Associate in Python Programming | 🔄 In progress |
+| 3 | **PCPP1** – Certified Professional Python Programmer 1 | ⏳ Planned |
+| 4 | **PCPP2** – Certified Professional Python Programmer 2 (stretch goal) | ⏳ Conditional |
 
-* **Performance Gating:** Progression is blocked until strict testing metrics are cleared.
-* **Intensive Sprints:** Sustained 14+ hour daily coding and debugging sessions.
-* **CLI-First Development:** Strict adherence to a Linux command-line workflow to mirror production data centers.
-* **Enterprise Standards:** Continuous problem-solving practice strictly adhering to PEP 8 compliance.
-* **Public Accountability:** Weekly, transparent GitHub commits tracking real-time progress.
+## Execution Approach
 
-### 📂 Repository Structure
+Progress is tracked under a strict **Zero-Waste policy**: no exam is scheduled until consistent 85%+ scores are achieved on official timed mock exams. This keeps certification spending efficient and outcomes reliable.
 
-```text
-├── week1/          # Core syntax, variable allocation, and basic I/O drills
-├── week2/          # Control flow, logic execution, and iterative operations
-├── week3/          # Data structures (lists, arrays), bitwise logic labs
-<<<<<<< HEAD
-├── projects/       # Practical SLNDC infrastructure tools (e.g., Server Log Analyzers)
-└── certificates/   # Verified OpenEDG and Coursera credentials
-=======
-├── projects/       # Practical  infrastructure tools (e.g., Server Log Analyzers)
-└── certificates/   # Verified OpenEDG and Coursera credentials
+- **Performance gating** — no new phase begins until mock-exam benchmarks are cleared
+- **Linux command-line workflows** — mirrors real data center operating environments
+- **PEP 8 compliance** — consistent, readable, professional code
+- **Weekly public commits** — transparent, auditable progress
 
+## Repository Structure
 
->>>>>>> 3ae8fd96f68eadb6e352c5df3454b32341459644
+```
+├── week1/          Core syntax, variables, basic I/O
+├── week2/          Control flow, conditionals, loops
+├── week3/          Data structures — lists, indexing, iteration
+├── week4/          Exception handling and error management
+├── week5/          Functions and applied mini-projects
+├── projects/       Practical SLNDC-aligned tools (e.g. log analyzers, calculators)
+└── certifications/ Verified OpenEDG and Coursera credentials
+```
+
+## About This Program
+
+This work directly supports the SLNDC Seed Instructor contract's Year 1 objectives: completing the OpenEDG Python certification pathway while building practical backend engineering skills, and delivering Python training courses to SLNDC and SIZ audiences starting July 2026.
+
+Progress updates are shared regularly with the **TTM** PMO as part of standard monthly reporting.
