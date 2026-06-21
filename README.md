@@ -1,5 +1,5 @@
 
-=======
+
 # SLNDC Seed Instructor — Python Certification Journey
 
 ## Overview
@@ -38,4 +38,4 @@ The goal is to build strong, verifiable Python backend engineering skills, achie
 
 ## About This Program
 This work directly supports the SLNDC Seed Instructor contract's Year 1 objectives: completing the OpenEDG Python certification pathway while building practical backend engineering skills, and delivering Python training courses to SLNDC and SIZ audiences starting July 2026. Progress updates are shared regularly with the TTM PMO as part of standard monthly reporting.
->>>>>>> 3f76623696edfbe33504bf54d08e27e650c80351
+
