@@ -1,43 +1,38 @@
 # SLNDC Seed Instructor — Python Certification Journey
 
 ## Overview
+This repository is a transparent, public record of my progress through the OpenEDG Python Institute certification pathway, undertaken as part of the SLNDC Seed Instructor program, under the MICT and the TTM. 
 
-This repository is a transparent, public record of my progress through the **OpenEDG Python Institute certification pathway**, undertaken as part of the **SLNDC Seed Instructor program**, under the MICT and the **TTM**.
-
-The goal is to build strong, verifiable Python backend engineering skills, achieve international certification, and deliver Python training to government IT staff and the public through the **SIZ**.
+The goal is to build strong, verifiable Python backend engineering skills, achieve international certification, and deliver Python training to government IT staff and the public through the SIZ.
 
 ## Certification Roadmap
 
 | Phase | Certification | Status |
-|---|---|---|
-| 1 | **PCEP** – Certified Entry-Level Python Programmer | ✅ Passed — June 20, 2026 |
-| 2 | **PCAP** – Certified Associate in Python Programming | 🔄 In progress |
-| 3 | **PCPP1** – Certified Professional Python Programmer 1 | ⏳ Planned |
-| 4 | **PCPP2** – Certified Professional Python Programmer 2 (stretch goal) | ⏳ Conditional |
+| :--- | :--- | :--- |
+| 1 | PCEP – Certified Entry-Level Python Programmer | ✅ Passed — June 20, 2026 |
+| 2 | PCAP – Certified Associate in Python Programming | 🔄 In progress (Target: Late June 2026) |
+| 3 | PCPP1 – Certified Professional Python Programmer 1 | ⏳ Planned |
+| 4 | PCPP2 – Certified Professional Python Programmer 2 | ⏳ Conditional (Stretch Goal) |
 
 ## Execution Approach
-
-Progress is tracked under a strict **Zero-Waste policy**: no exam is scheduled until consistent 85%+ scores are achieved on official timed mock exams. This keeps certification spending efficient and outcomes reliable.
-
-- **Performance gating** — no new phase begins until mock-exam benchmarks are cleared
-- **Linux command-line workflows** — mirrors real data center operating environments
-- **PEP 8 compliance** — consistent, readable, professional code
-- **Weekly public commits** — transparent, auditable progress
+* **Zero-Waste Policy:** No exam is scheduled until consistent 85%+ scores are achieved on official timed mock exams.
+* **Linux Command-Line Workflows:** Code architecture designed to mirror real data center production environments.
+* **PEP 8 Compliance:** Clear, production-grade syntax structure.
 
 ## Repository Structure
 
-```
-├── week1/          Core syntax, variables, basic I/O
-├── week2/          Control flow, conditionals, loops
-├── week3/          Data structures — lists, indexing, iteration
-├── week4/          Exception handling and error management
-├── week5/          Functions and applied mini-projects
-├── projects/       Practical SLNDC-aligned tools (e.g. log analyzers, calculators)
-└── certifications/ Verified OpenEDG and Coursera credentials
-```
+### 🔹 Phase 1: PCEP Foundations (Archived)
+* `week1/` to `week3/` — Core syntax, control flow, loops, and data structures (lists).
+* `week4/` — Exceptions, error handling, and basic debugging.
+* `week5/` — Functions, scoping, and applied functional mini-projects.
+
+### 🔸 Phase 2: PCAP Advanced Backend Engineering (Active)
+* `week6-pcap-mod1/` — Core modules (`math`, `random`, `platform`), custom packages, and `pip` infrastructure.
+* `week7-pcap-mod2/` — Advanced string processing, list operations, and deep exception hierarchies.
+* `week8-pcap-mod3/` — Object-Oriented Programming (OOP): classes, encapsulation, inheritance, and MRO.
+* `week9-pcap-mod4/` — Advanced Python tools: generators, iterators, closures, file I/O (text/binary), and `os`/`datetime` modules.
+* `projects/` — Practical SLNDC-aligned tools (e.g., log analyzers, automation scripts).
+* `certifications/` — Verified OpenEDG credentials.
 
 ## About This Program
-
-This work directly supports the SLNDC Seed Instructor contract's Year 1 objectives: completing the OpenEDG Python certification pathway while building practical backend engineering skills, and delivering Python training courses to SLNDC and SIZ audiences starting July 2026.
-
-Progress updates are shared regularly with the **TTM** PMO as part of standard monthly reporting.
+This work directly supports the SLNDC Seed Instructor contract's Year 1 objectives: completing the OpenEDG Python certification pathway while building practical backend engineering skills, and delivering Python training courses to SLNDC and SIZ audiences starting July 2026. Progress updates are shared regularly with the TTM PMO as part of standard monthly reporting.
