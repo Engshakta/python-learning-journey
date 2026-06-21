@@ -10,7 +10,7 @@ The goal is to build strong, verifiable Python backend engineering skills, achie
 | Phase | Certification | Status |
 | :--- | :--- | :--- |
 | 1 | PCEP – Certified Entry-Level Python Programmer | ✅ Passed — June 20, 2026 |
-| 2 | PCAP – Certified Associate in Python Programming | 🔄 In progress (Target: Late June 2026) |
+| 2 | PCAP – Certified Associate in Python Programming | 🔄 In progress (Target: Late Aughst 2026) |
 | 3 | PCPP1 – Certified Professional Python Programmer 1 | ⏳ Planned |
 | 4 | PCPP2 – Certified Professional Python Programmer 2 | ⏳ Conditional (Stretch Goal) |
 
