@@ -4,7 +4,6 @@
 
 __counter = 0
 
-
 def suml(the_list):
   global __counter
   __counter += 1
@@ -13,7 +12,6 @@ def suml(the_list):
    the_sum += element
   return the_sum
 
-
 def prodl(the_list):
   global __counter
   __counter += 1
@@ -21,7 +19,6 @@ def prodl(the_list):
   for element in the_list:
    prod *= element
   return prod
-
 
 if __name__ == "__main__":
   print("I prefer to be a module, but I can do some tests for you.")
